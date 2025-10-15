@@ -1,11 +1,11 @@
-🌦️ Weather Cek
+## 🌦️ Weather Cek
 
 Aplikasi web sederhana untuk menampilkan informasi cuaca berdasarkan nama kota.
 Dibuat dengan HTML, CSS, dan JavaScript menggunakan OpenWeather API.
 
 
 
-🧩 Fitur Utama
+# 🧩 Fitur Utama
 
 
 * Mencari cuaca berdasarkan nama kota
@@ -13,7 +13,7 @@ Dibuat dengan HTML, CSS, dan JavaScript menggunakan OpenWeather API.
 
 
 
-📁 Struktur Proyek
+# 📁 Struktur Proyek
 
 
 weather-check/
@@ -28,7 +28,7 @@ weather-check/
 
 
 
-⚙️ Cara Menjalankan (Lokal)
+# ⚙️ Cara Menjalankan (Lokal)
 
 
 1. Clone atau download repo ini:
@@ -43,7 +43,7 @@ weather-check/
 
 
 
-🔑 Cara Mendapatkan API Key dari OpenWeather
+# 🔑 Cara Mendapatkan API Key dari OpenWeather
 
 
 1. Buka [https://openweathermap.org/](https://openweathermap.org/) dan klik Sign Up (jika belum punya akun). Buat akun baru.
