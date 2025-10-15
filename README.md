@@ -32,14 +32,18 @@ weather-check/
 
 
 1. Clone atau download repo ini:
+   ```bash
    git clone https://github.com/DzakiNaufal/weather-check.git
+   ```
+   ```bash
    cd weather-check
-2. Buka file `index.html` di browser (double-click atau `File > Open` pada browser).
-3. Edit `script.js` dan masukkan API key kamu pada baris:
+   ```
+3. Buka file `index.html` di browser (double-click atau `File > Open` pada browser).
+4. Edit `script.js` dan masukkan API key kamu pada baris:
 
    const apiKey = "Masukkan Token API Anda di sini";
    
-4. Ketik nama kota pada kolom input, lalu klik **Cek Cuaca**.
+5. Ketik nama kota pada kolom input, lalu klik **Cek Cuaca**.
 
 
 
