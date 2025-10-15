@@ -32,7 +32,7 @@ weather-check/
 
 
 1. Clone atau download repo ini:
-   git clone https://github.com/username/weather-check.git
+   git clone https://github.com/DzakiNaufal/weather-check.git
    cd weather-check
 2. Buka file `index.html` di browser (double-click atau `File > Open` pada browser).
 3. Edit `script.js` dan masukkan API key kamu pada baris:
