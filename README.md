@@ -37,7 +37,7 @@ weather-check/
 2. Buka file `index.html` di browser (double-click atau `File > Open` pada browser).
 3. Edit `script.js` dan masukkan API key kamu pada baris:
 
-   const apiKey = "MASUKKAN_API_KEY_ANDA";
+   const apiKey = "Masukkan Token API Anda di sini";
    
 4. Ketik nama kota pada kolom input, lalu klik **Cek Cuaca**.
 
