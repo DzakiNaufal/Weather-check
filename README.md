@@ -14,8 +14,11 @@ Dibuat dengan HTML, CSS, dan JavaScript menggunakan OpenWeather API.
 
 weather-check/
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 
