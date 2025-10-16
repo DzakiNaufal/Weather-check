@@ -56,5 +56,7 @@ weather-check/
 4. Salin API key yang diberikan, lalu tempelkan ke `script.js` pada variabel `apiKey`.
 
 
+## 📄 Lisensi
 
+Proyek ini bersifat **open-source** dan dapat digunakan untuk keperluan belajar atau pengembangan pribadi.
 
